@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Fork of https://github.com/robatron/sudoku.js to allow installing via NPM",
+  "main": "sudoku.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mn-martin/sudoku.js.git"
+  },
+  "author": "Rob McGuire-Dale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mn-martin/sudoku.js/issues"
+  },
+  "homepage": "https://github.com/mn-martin/sudoku.js#readme"
+}
